@@ -1,0 +1,64 @@
+/**
+
+Title: site.css
+Author: Lucas Hoffman
+Date: 05/29/2021
+Description: Styling for the index.html
+
+*/
+
+/** Styling for the body sectiom */
+
+html {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-weight: bold;
+}
+
+/** Styling for the container div */
+
+#container {
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+/** Styling for h1 - h4 elements */
+
+h1, h2, h3, h4 {
+	background-color: silver;
+	color: black;
+	border: 1px solid #d6a800;
+	padding: 10px;
+	text-align: center;
+}
+
+/** Styling for the links */
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+/** Styling for the links when you hover over a link */
+
+a:hover {
+	background-color: #d6a800;
+	color: #4f3674;
+}
+
+
+
+img {
+	height: 350px;
+	width: 250px;
+	float: center;
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.background {
+	background-image: url("background.jfif");
+	color: black;
+
+}

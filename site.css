@@ -11,7 +11,7 @@ Description: Styling for the index.html
 
 html {
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
-	font-weight: bold;
+	
 }
 
 /** Styling for the container div */
@@ -58,7 +58,7 @@ img {
 }
 
 .background {
-	background-image: url("background.jfif");
+	background-color: #D0D0D0;
 	color: black;
 
 }

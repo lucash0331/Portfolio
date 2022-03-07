@@ -17,7 +17,7 @@ class Footer extends HTMLElement {
       this.innerHTML = `
               <div id="footer">
                   <p class="copyright">
-                      Copyright &copy; 2021. Lucas Hoffman |  <a target="_blank" href="https://www.bellevue.edu/degrees/bachelor/web-development-bs/">Bellevue University Web Development</a>
+                      Copyright &copy; 2022. Lucas Hoffman |  <a target="_blank" href="https://www.bellevue.edu/degrees/bachelor/web-development-bs/">Bellevue University Web Development</a>
                   </p>
                   <p class="social">   
                       <a target="_blank" class="youtube" title="My Linkedin Profile" href="https://www.linkedin.com/in/lucashoffman/"><i class="fa fa-fw fa-2x fa-inverse fa-linkedin"></i></a>
